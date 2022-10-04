@@ -104,7 +104,7 @@ do
             xrandr --output $DEVICE --reflect y
             ;;
         6) # Beepdog!
-            nohup www-browser 'https://www.youtube.com/watch?v=JWOY6uu3VUo' >> /dev/null &
+            nohup www-browser 'https://www.youtube.com/watch?v=FzG4uDgje3M' >> /dev/null &
             ;;
         7) # Play the first notes of "Trololo" on the users PC speaker
             beep -f 261.6 -l 30 -D 70 -n -f 329.6 -l 30 -D 70 -n -f 392.0 -l 30 -D 70 -n -f 493.9 -l 30 -D 70 -n -f
